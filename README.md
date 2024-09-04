@@ -37,4 +37,4 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 
 # Tableau Visualizations
 
-The final visualizations for this project can be viewed here [Click Here](https://public.tableau.com/app/profile/cyrus.zad/viz/ProjectPyke/Dashboard1)
+The final visualizations for this project can be viewed here [Click Here](https://public.tableau.com/app/profile/cyrus.zad/viz/ProjectPyke/ProjectPyke)
